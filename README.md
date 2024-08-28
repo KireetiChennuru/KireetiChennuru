@@ -22,7 +22,7 @@
 <a href="https://twitter.com/@kireetic69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kireetic69" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kireeti-chennuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kireeti-chennuru" height="30" width="40" /></a>
 <a href="https://kaggle.com/kireetichennuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kireetichennuru" height="30" width="40" /></a>
-<a href="https://instagram.com/kireeti_chennuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kireeti_chennuru" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kireeti_chennuru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kireeti_chennuru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
